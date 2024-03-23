@@ -1,5 +1,5 @@
 # U.S. Trivia 📚🏫
-Created a flash cards site of U.S. trivia for a course project. [Link Here](https://jmp.sh/MPJ4mCLo\'92)
+Created a flash cards site of U.S. trivia for a course project. [Link Here] (https://jumpshare.com/v/6GtgS5oL1e20jmFhGsnk)
 
 ## Functionality 
 - The title of the card set and some information about it, such as a short description and the total number of cards are displayed**\
