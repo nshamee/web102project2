@@ -1,4 +1,4 @@
-# U.S. Trivia
+# U.S. Trivia 📚🏫
 Created a flash cards site of U.S. trivia for a course project. [Link Here](https://jmp.sh/MPJ4mCLo\'92)
 
 ## Functionality 
